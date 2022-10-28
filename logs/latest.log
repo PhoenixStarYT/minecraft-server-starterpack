@@ -1,0 +1,75 @@
+[18:36:17] [ServerMain/INFO]: Building unoptimized datafixer
+[18:36:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:36:18] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[18:36:19] [ServerMain/INFO]: Loaded 7 recipes
+[18:36:20] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[18:36:20] [Server thread/INFO]: Loading properties
+[18:36:20] [Server thread/INFO]: This server is running Paper version git-Paper-245 (MC: 1.19.2) (Implementing API version 1.19.2-R0.1-SNAPSHOT) (Git: b743144)
+[18:36:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:36:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:36:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[18:36:20] [Server thread/INFO]: Default game type: SURVIVAL
+[18:36:20] [Server thread/INFO]: Generating keypair
+[18:36:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:36:20] [Server thread/INFO]: Using default channel type
+[18:36:20] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[18:36:20] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:36:21] [Server thread/INFO]: [ItemEditor] Loading ItemEditor v0.1.16
+[18:36:21] [Server thread/INFO]: [BlockLocker] Loading BlockLocker v1.11
+[18:36:21] [Server thread/INFO]: [CraftEnhance] Loading CraftEnhance v2.4.4.5
+[18:36:21] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.11
+[18:36:21] [Server thread/INFO]: [BlockLocker] Saving translations
+[18:36:21] [Server thread/INFO]: Preparing level "world"
+[18:36:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:36:39] [Server thread/INFO]: Time elapsed: 70 ms
+[18:36:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:36:39] [Server thread/INFO]: Time elapsed: 41 ms
+[18:36:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:36:39] [Server thread/INFO]: Time elapsed: 39 ms
+[18:36:39] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v0.1.16
+[18:36:39] [Server thread/INFO]: [ItemEditor] §fItemEditor §7v0.1.16, by §bFreakey
+[18:36:39] [Server thread/INFO]: [CraftEnhance] Enabling CraftEnhance v2.4.4.5
+[18:36:39] [Server thread/INFO]: [CraftEnhance] items.yml doesn't exist... creating it.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] recipes.yml doesn't exist... creating it.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] server-recipes.yml doesn't exist... creating it.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] container-owners.yml doesn't exist... creating it.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] guitemplates.yml doesn't exist... creating it.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19.
+[18:36:39] [Server thread/INFO]: [CraftEnhance] The correct version is installed.
+[18:36:39] [Server thread/INFO]: Running delayed init tasks
+[18:36:39] [Server thread/INFO]: Done (19.362s)! For help, type "help"
+[18:36:39] [Server thread/INFO]: Timings Reset
+[18:36:40] [Craft Scheduler Thread - 3 - CraftEnhance/INFO]: [CraftEnhance] There's a new version (2.4.4) of the plugin available on https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files.
+[18:37:19] [Server thread/INFO]: Plugins (3): BlockLocker, CraftEnhance, ItemEditor
+[18:37:25] [Server thread/INFO]: Stopping the server
+[18:37:25] [Server thread/INFO]: Stopping server
+[18:37:25] [Server thread/INFO]: [CraftEnhance] Disabling CraftEnhance v2.4.4.5
+[18:37:25] [Worker-Main-1/INFO]: Loaded 7 recipes
+[18:37:25] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.11
+[18:37:25] [Server thread/INFO]: [ItemEditor] Disabling ItemEditor v0.1.16
+[18:37:25] [Server thread/INFO]: Saving players
+[18:37:26] [Server thread/INFO]: Saving worlds
+[18:37:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:37:26] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[18:37:26] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[18:37:26] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[18:37:27] [Server thread/INFO]: [ChunkHolderManager] Saved 1849 block chunks, 356 entity chunks, 4 poi chunks in world 'world' in 1,08s
+[18:37:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:37:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:37:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[18:37:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[18:37:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[18:37:28] [Server thread/INFO]: [ChunkHolderManager] Saved 2025 block chunks, 529 entity chunks, 0 poi chunks in world 'world_nether' in 0,82s
+[18:37:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:37:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:37:29] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[18:37:29] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[18:37:29] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[18:37:29] [Server thread/INFO]: [ChunkHolderManager] Saved 2025 block chunks, 529 entity chunks, 0 poi chunks in world 'world_the_end' in 0,33s
+[18:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:37:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:37:30] [Server thread/INFO]: Flushing Chunk IO
+[18:37:30] [Server thread/INFO]: Closing Thread Pool
+[18:37:30] [Server thread/INFO]: Closing Server
